@@ -2,7 +2,7 @@
 
 # Flask blog app
 
-This is a web blog application utilizing Python Flask framework for backend as well as a little bit of JavaScript for the frontend side.
+This is a web blog application utilizing Python Flask framework for backend as well as a little bit of JavaScript for the frontend side. App is build with _Test-Driven Development (TDD)_ in mind for which it utilizes **pytest**.
 
 App is based on [Flaskr - Intro to Flask, Test-Driven Development, and JavaScript tutorial](https://github.com/mjhea0/flaskr-tdd).
 
