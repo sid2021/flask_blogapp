@@ -15,6 +15,7 @@ For your convenience app is also deployed to Heroku.
 - [SQLite](https://www.sqlite.org/index.html)
 - [Bootstrap](https://getbootstrap.com/)
 - [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
+- [Pytest](https://docs.pytest.org/en/stable/)
 - HTML5
 - CSS3
 
